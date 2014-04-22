@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [sindresorhus/image-type](http://github.com/sindresorhus/image-type). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/sindresorhus-image-type`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # image-type [![Build Status](https://travis-ci.org/sindresorhus/image-type.svg?branch=master)](https://travis-ci.org/sindresorhus/image-type)
 
 > Detect the image type of a Buffer/Uint8Array
